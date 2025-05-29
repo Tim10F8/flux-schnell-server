@@ -1,5 +1,7 @@
 # Flux Schnell Server
 
+[![smithery badge](https://smithery.ai/badge/@m-mcp/flux-schnell-server)](https://smithery.ai/server/@m-mcp/flux-schnell-server)
+
 基于[Flux Schnell](https://huggingface.co/spaces/black-forest-labs/flux-1-schnell)模型的MCP图像生成服务器。
 
 ## 功能特点
